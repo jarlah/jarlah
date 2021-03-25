@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing software solutions for business needs.
 - 🌱 I’m currently learning how to work more effective
 - 💞️ I’m looking to collaborate on a side project of mine. Interested? Contact me. Typescript/Scala/Kubernetes/Gcloud
-- 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase [https://keybase.io/jarlah]
+- 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase https://keybase.io/jarlah
