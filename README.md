@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @jarlah
-- 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase https://keybase.io/jarlah
+- 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase too https://keybase.io/jarlah
