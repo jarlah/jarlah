@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @jarlah
-- 👀 I’m interested in developing software solutions for business needs.
-- 🌱 I’m currently learning how to work more effective
 - 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase https://keybase.io/jarlah
