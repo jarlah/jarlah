@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jarlah
 - 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase too https://keybase.io/jarlah
+- ![image](https://user-images.githubusercontent.com/404102/139929650-6bc8b8f6-f93f-4dfa-b61c-850983da0f04.png | width=32) I'm interested in functional programming.
