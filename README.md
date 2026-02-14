@@ -1,5 +1,25 @@
-- 👋 Hi, I’m @jarlah
-- 📫 Reach me on twitter, linkedin, facebook or [fill in social platform]. I'm on keybase too https://keybase.io/jarlah
-- <img src="https://user-images.githubusercontent.com/404102/139930241-d45d4ca0-d17f-4bd4-b211-0066e47548b9.png" width="20" height="20"> I'm interested in functional programming.
-- <img src="https://github.com/user-attachments/assets/e9d34fb7-dc2d-4259-a06f-902c59fbd6bf" width="20" height="20"> Open Source is Not About You: https://gist.github.com/jarlah/4c3fa5efae5789740836b1ce8da83da2
-- <img src="https://github.com/user-attachments/assets/e9d34fb7-dc2d-4259-a06f-902c59fbd6bf" width="20" height="20"> I welcome contributors to my public projects
+### 👋 Hi, I'm Jarl André
+
+I'm a functional programming enthusiast working primarily with Elixir, building tools that help developers and individuals be more productive.
+
+#### 🚀 Projects I'm Working On
+
+- [**GetStuffDone**](https://gtdapp.cloud) - A complete GTD (Getting Things Done) task management application featuring:
+  - Zero-knowledge encryption for maximum privacy
+  - Full GTD workflow: Capture, Clarify, Organize, Review, Execute
+  - Built with Phoenix LiveView & Ash Framework
+  - Currently in early access
+
+- [**Testcontainers for Elixir**](https://github.com/testcontainers/testcontainers-elixir) - Contributing to the official Testcontainers library for Elixir:
+  - Lightweight, throwaway Docker containers for ExUnit tests
+  - Support for databases, message brokers, and custom containers
+  - Makes integration testing simple and reliable
+
+#### 📫 Let's Connect
+
+Find me on [Twitter](https://twitter.com/jarlah) • [LinkedIn](https://linkedin.com/in/jarlah) • [Facebook](https://facebook.com/jarlah) • [Keybase](https://keybase.io/jarlah)
+
+#### 💭 Thoughts on Open Source
+
+- [Open Source is Not About You](https://gist.github.com/jarlah/4c3fa5efae5789740836b1ce8da83da2)
+- I welcome contributors to all my public projects!
