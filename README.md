@@ -43,6 +43,13 @@ I **maintain [testcontainers-elixir](https://github.com/testcontainers/testconta
 [![Hex.pm](https://img.shields.io/hexpm/v/testcontainers?style=for-the-badge&logo=elixir)](https://hex.pm/packages/testcontainers)
 [![Downloads](https://img.shields.io/hexpm/dt/testcontainers?style=for-the-badge&logo=elixir)](https://hex.pm/packages/testcontainers)
 [![License](https://img.shields.io/github/license/testcontainers/testcontainers-elixir?style=for-the-badge)](https://github.com/testcontainers/testcontainers-elixir/blob/main/LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/testcontainers/testcontainers-elixir/elixir.yml?style=for-the-badge&logo=github)](https://github.com/testcontainers/testcontainers-elixir/actions)
+
+I also maintain **[testcontainers-ceph](https://github.com/jarlah/testcontainers-ceph)** — a [Testcontainers](https://testcontainers.com/modules/ceph/) Java module for Ceph, giving you a throwaway S3-compatible object store for integration tests without standing up a real cluster.
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.jarlah/testcontainers-ceph?style=for-the-badge&logo=apachemaven)](https://central.sonatype.com/artifact/io.github.jarlah/testcontainers-ceph)
+[![License](https://img.shields.io/github/license/jarlah/testcontainers-ceph?style=for-the-badge)](https://github.com/jarlah/testcontainers-ceph/blob/master/LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/jarlah/testcontainers-ceph/maven.yml?style=for-the-badge&logo=github)](https://github.com/jarlah/testcontainers-ceph/actions)
 
 #### GitHub stats
 
